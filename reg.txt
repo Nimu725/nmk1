@@ -1,0 +1,9 @@
+<html>
+<head>
+<h1> welcome to user reg page>
+
+</head>
+<body>
+<h1> welcome to user reg page>
+</body>
+</html>
